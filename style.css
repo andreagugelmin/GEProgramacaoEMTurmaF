@@ -1,0 +1,30 @@
+body {
+
+	text-align: center;
+}
+	
+header, footer {
+		background-color: #174F1A;
+		font-size: 30px;
+}
+
+main {
+
+	background-color: #3CCF43;
+}
+
+footer {
+	background-color: #174F1A;
+}
+h1 {
+	color: #2E9E34;
+	font-size: 50px;
+	
+}
+b {
+	color: #89E88E;
+	font-size: 25px;
+}
+
+i { color: #3CCF43;
+}
