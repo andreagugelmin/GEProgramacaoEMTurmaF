@@ -28,3 +28,9 @@ b {
 
 i { color: #3CCF43;
 }
+.logo img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
