@@ -14,7 +14,11 @@ header, footer {
 	widht: 50px;
 	height: 50px;
 	}
-main {
+
+nav li {
+	List-style:none;
+	
+	main {
 
 	background-color: #3CCF43;
 }
