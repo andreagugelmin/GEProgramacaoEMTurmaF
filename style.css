@@ -10,6 +10,10 @@ header, footer {
 	widht:20px
 }
 
+#logo {
+	widht: 200px;
+	height: 200px;
+	}
 main {
 
 	background-color: #3CCF43;
