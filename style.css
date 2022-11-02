@@ -9,7 +9,7 @@ header {
 	margin: 0 auto;
 }
 
-.logo {
+h1 {
 	height: 2%;
 	widht: 2%;
 }
@@ -44,10 +44,6 @@ body {
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
-}
-
-h1 {
-	text-align: center
 }
 
 p {
