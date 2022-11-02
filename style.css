@@ -9,6 +9,11 @@ header {
 	margin: 0 auto;
 }
 
+.logo {
+	height: 20%;
+	widht: 20%;
+}
+
 nav { 
 	position: absolute;
 	top: 0;
